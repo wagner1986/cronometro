@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/cronometro/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/cronometro/static/js/main.eaabeb97.chunk.js",
-    "main.js.map": "/cronometro/static/js/main.eaabeb97.chunk.js.map",
-    "runtime-main.js": "/cronometro/static/js/runtime-main.e8d82fa3.js",
-    "runtime-main.js.map": "/cronometro/static/js/runtime-main.e8d82fa3.js.map",
-    "static/js/2.dede39e3.chunk.js": "/cronometro/static/js/2.dede39e3.chunk.js",
-    "static/js/2.dede39e3.chunk.js.map": "/cronometro/static/js/2.dede39e3.chunk.js.map",
-    "static/js/3.e883e9fb.chunk.js": "/cronometro/static/js/3.e883e9fb.chunk.js",
-    "static/js/3.e883e9fb.chunk.js.map": "/cronometro/static/js/3.e883e9fb.chunk.js.map",
+    "main.css": "/cronometro/static/css/main.716f1765.chunk.css",
+    "main.js": "/cronometro/static/js/main.4bf557b4.chunk.js",
+    "main.js.map": "/cronometro/static/js/main.4bf557b4.chunk.js.map",
+    "runtime-main.js": "/cronometro/static/js/runtime-main.bc840117.js",
+    "runtime-main.js.map": "/cronometro/static/js/runtime-main.bc840117.js.map",
+    "static/js/2.25133b5a.chunk.js": "/cronometro/static/js/2.25133b5a.chunk.js",
+    "static/js/2.25133b5a.chunk.js.map": "/cronometro/static/js/2.25133b5a.chunk.js.map",
+    "static/js/3.fc85884b.chunk.js": "/cronometro/static/js/3.fc85884b.chunk.js",
+    "static/js/3.fc85884b.chunk.js.map": "/cronometro/static/js/3.fc85884b.chunk.js.map",
     "index.html": "/cronometro/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/cronometro/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.dede39e3.chunk.js.LICENSE.txt": "/cronometro/static/js/2.dede39e3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/cronometro/static/media/logo.6ce24c58.svg"
+    "static/css/main.716f1765.chunk.css.map": "/cronometro/static/css/main.716f1765.chunk.css.map",
+    "static/js/2.25133b5a.chunk.js.LICENSE.txt": "/cronometro/static/js/2.25133b5a.chunk.js.LICENSE.txt",
+    "static/media/cronometro.910ec1f0.png": "/cronometro/static/media/cronometro.910ec1f0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8d82fa3.js",
-    "static/js/2.dede39e3.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.eaabeb97.chunk.js"
+    "static/js/runtime-main.bc840117.js",
+    "static/js/2.25133b5a.chunk.js",
+    "static/css/main.716f1765.chunk.css",
+    "static/js/main.4bf557b4.chunk.js"
   ]
 }
